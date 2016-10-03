@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/audio/BurgerDamage.wav</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/audio/BurgerDeath.wav</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/audio/BurgerShot.wav</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/audio/Explosion.wav</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/audio/TeddyBounce.wav</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/audio/TeddyShot.wav</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/fonts/Arial20.spritefont</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/graphics/burger.png</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/graphics/explosion.png</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/graphics/frenchfries.png</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/graphics/teddybear.png</File>
+    <File>C:/Users/Ian/Documents/Visual Studio 2015/Projects/Games Course/Project/ProjectContent/content/graphics/teddybearprojectile.png</File>
+  </SourceFiles>
+</SourceFileCollection>
